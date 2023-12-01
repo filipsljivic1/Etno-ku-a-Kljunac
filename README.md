@@ -1,1 +1,1 @@
-# Etno-ku-a-Kljunac
+# Etno-kuća-Kljunac
