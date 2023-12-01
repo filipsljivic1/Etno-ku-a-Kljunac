@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="sr-Latn-RS">
+<head>
+	<meta charset="UTF-8"/>
+	<title>Etno kuća Kljunac</title>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css"/>
+</head>
+<body>
+	<div id="header">
+		<div class="wrap">
+			<div id="navigacija">
+				<ul>
+					<li><div id="logo"><a href="index.html"><img src="img/kljunac.jpg" alt="kljunac" height="200px"/></a></div></li>
+					<li class="I"><a href="index.html">POČETNA</a></li>
+					<li class="I"><a class="active"href="about-us.html">O nama</a></li>
+					<li class="I"><a href="index.menu">Meni</a></li>
+					<li class="I" ><a href="gallery.html">Galerija</a></li>
+					<li class="I"><a href="author.html">O autoru</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
